@@ -1,0 +1,9 @@
+body{
+	background-color: chartreuse;
+}
+img{
+	height: 200px;
+	background-color: skyblue;
+	padding: 20px;
+	margin: 20px;
+}
